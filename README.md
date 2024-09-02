@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Jeffer Ooi Zhe Feng!
+🎓 Bachelor of Software Engineering (Honours) student
+📍 Penang, Malaysia
 
-<!--
-**Jeffer-Ooi/Jeffer-Ooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Currently working on:
+RIP-CNN: Radiological Imaging Pneumonia using Convolutional Neural Network (DenseNet201)
 
-Here are some ideas to get you started:
+🚀 Skills & Technologies
+Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interests
+Machine Learning
+Computer Vision
+Web Development
+📫 Let's Connect!
+Feel free to reach out for collaboration or to connect!
+📧 Email: jefferooi2003@gmail.com
