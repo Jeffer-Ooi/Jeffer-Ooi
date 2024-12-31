@@ -9,7 +9,7 @@
 - **RIP-CNN:** Radiological Imaging Pneumonia using Convolutional Neural Network (DenseNet201)
 
 ### 🚀 Skills & Technologies:
-- **Languages:** Java, Python, HTML, CSS, MySQL, JavaScript, Flutter, PHP , LabView(Graphical Programming)
+- **Languages:** Java, Python, HTML, CSS, MySQL, JavaScript, Flutter, PHP , LabView(Graphical Programming), C, C# (ASP.NET)
 
 ### 🌱 Interests:
 - Machine Learning  
